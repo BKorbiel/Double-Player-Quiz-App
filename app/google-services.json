@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804628165604",
+    "project_id": "doubleplayerquizapp",
+    "storage_bucket": "doubleplayerquizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804628165604:android:4cd53f18538ef2193a4df1",
+        "android_client_info": {
+          "package_name": "com.example.doubleplayerquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804628165604-g05nkq0800jnrahhljuthpjt6mmqeqa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_H0vyPGIZMkxoMzmr1ES4FA0A1unhWeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804628165604-g05nkq0800jnrahhljuthpjt6mmqeqa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
